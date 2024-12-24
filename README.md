@@ -14,3 +14,4 @@ weather, events, and socio-economic trends for now, to streamline computational 
 iterations will expand on these capabilities, integrating broader datasets and advanced algorithms. TPRPI
 seeks to bridge existing gaps and align with recent trends in predictive analytics, offering an innovative
 approach to traffic management tailored to India's unique challenges.
+Google collab was used to run this base-code.
